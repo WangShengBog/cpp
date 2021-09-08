@@ -18,6 +18,10 @@ int main()
     float averageGrade = 4.5;
     double balance = 786788793774;
 
+    char character0 = 'a', 'b';
+
+    cout << "character0 is " << character0 << endl;
+
     // 4 bytes
     cout << "Size of int is " << sizeof(int) << " bytes\n";
 
